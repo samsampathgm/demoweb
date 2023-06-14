@@ -1,0 +1,22 @@
+h1{
+    padding-bottom: 15px;
+}
+span{
+    color: rgb(4, 4, 98);
+}
+.left{
+    float: left;
+}
+.right{
+    float: right;
+    text-align: justify;
+}
+.title-img2{
+    padding-left: 200px;
+}
+.title-img1{
+    padding-left: 200px;
+}
+.tst{
+    text-align: center;
+}
